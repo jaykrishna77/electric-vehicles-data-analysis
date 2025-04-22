@@ -2,7 +2,7 @@
 
 **Project Duration**: [20/04/2025] - [22/04/2025]  
 **Tools Used**: SQL (MySQL), Python (Jupyter Notebook), Tableau  
-**Dataset**: [Download](/data/)
+**Dataset**: [Download](/Data/)
 
 ---
 
@@ -15,18 +15,18 @@ This project analyzes EV adoption trends, performance metrics, and geographic di
 ## 📂 **Folder Structure**
 ```text
 EV_Data_Analysis/
-├── sql/                                   # SQL scripts for data querying
+├── SQL/                                   # SQL scripts for data querying
 │   ├── data_queries.md                    # Database creation and queries
 │   └── results/                           # Exported query results (PNG)
 │
-├── python/                                # Jupyter Notebook
+├── Python/                                # Jupyter Notebook
 │   ├── ElectricVehicle_DataAnalysis.ipynb # Main analysis notebook
 │
-├── tableau/                               # Tableau workbook and exports
+├── Tableau/                               # Tableau workbook and exports
 │   ├── EV_DataAnalysis.twbx               # Interactive dashboard
 │   ├── dashboard_overview.png             # Img of dashboard
 │
-└── data/                                  # Raw and processed dataset
+└── Data/                                  # Raw and processed dataset
     ├── ElectricVehiclePopulationData.csv  # Original CSV file
 ```
 
@@ -39,7 +39,7 @@ EV_Data_Analysis/
   - Range analysis (Jaguar has 87% vehicles with 200+ mile range)
   - Tesla dominance (Model Y = 28,456 units, 3x competitors)
 
-### 2. **Python Phase** ([View Notebooks](/python/))
+### 2. **Python Phase** ([View Notebooks](/Python/))
 - Data Cleaning and Preparation
 - Exploratory Data Analysis (EDA)
 - Machine Learning Applications
