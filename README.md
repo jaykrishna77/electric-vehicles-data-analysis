@@ -39,7 +39,7 @@ EV_Data_Analysis/
   - Range analysis (Jaguar has 87% vehicles with 200+ mile range)
   - Tesla dominance (Model Y = 28,456 units, 3x competitors)
 
-### 2. **Python Phase** ([View Notebooks](/Python/))
+### 2. **Python Phase** ([View Notebook](/Python/))
 - Data Cleaning and Preparation
 - Exploratory Data Analysis (EDA)
 - Machine Learning Applications
